@@ -1,8 +1,8 @@
 ## 🚀 Setup Instructions
 ### 1. Download Server
 
-1. Go to [Releases]()
-2. Download the latest `server.exe` and unpack it
+1. Go to [Releases](https://github.com/zenlond/ryzen-hunt/releases/tag/1.0)
+2. Download the latest `server.exe`
 
 Edit `hosts.txt` with your PC's Wi-Fi IPv4 address:
 - Open Command Prompt and run `ipconfig`

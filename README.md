@@ -24,7 +24,7 @@ Select your platform for setup instructions:
 | Windows | [Setup Guide](docs/windows.md) |
 | Linux | [Setup Guide](docs/linux.md) |
 
-Download AMDRyzenHunt.apk from [AMD Ryzen Hunt](https://archive.org/details/AMDRyzenMascotHunt)
+Download AMDRyzenHunt.apk from [Archive](https://archive.org/details/AMDRyzenMascotHunt)
 
 ## ✅ Project Status
 

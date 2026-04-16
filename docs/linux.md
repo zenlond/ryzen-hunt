@@ -3,8 +3,8 @@
 
 ### 1. Clone Repository and Configure Hosts
 
-1. Go to [Releases]()
-2. Download the latest `server` and unpack it.
+1. Go to [Releases](https://github.com/zenlond/ryzen-hunt/releases/tag/1.0)
+2. Download the latest `server`
 
 Edit `hosts.txt` with your PC's IPv4 address:
 - Find out your computer's **IPv4 address**
