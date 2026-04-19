@@ -11,7 +11,7 @@
 
 **AMD Ryzen Hunt Server API** is a backend server emulator for the **AMD Ryzen Hunt promotional mobile application** (2017).
 
-This project recreates the necessary server to restore sfunctionality after AMD's original servers were shut down, enabling users to view the **AR anime mascots**.
+This project recreates the necessary server to restores functionality after AMD's original servers were shut down, enabling users to view the **AR anime mascots**.
 
 > ⚠️ **Project Status**: Complete and will not receive further development.
 
