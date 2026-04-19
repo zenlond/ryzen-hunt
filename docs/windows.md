@@ -37,7 +37,7 @@ Both devices must connect to the same Wi-Fi network (avoid split bands like 5GHz
 1. Right-click `server.exe` and select **Run as administrator**
 2. A command prompt window will appear
 3. Launch the Ryzen Hunt App on your Android device
-4. If `server` displays "pwned" and the app shows the country selection screen, the setup is complete and working correctly
+4. If `server` displays "ok" and the app shows the country selection screen, the setup is complete and working correctly
 
 ### 6. 📝 Register Account
 
