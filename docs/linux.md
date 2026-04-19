@@ -34,7 +34,7 @@ Both devices must connect to the same Wi-Fi network (avoid split bands like 5GHz
 1. Make the server executable: `chmod +x server`
 2. Run the server: `sudo ./server`
 3. Launch the Ryzen Hunt App on your Android device
-4. If `server` displays "pwned" and the app shows the country selection screen, the setup is complete and working correctly
+4. If `server` displays "ok" and the app shows the country selection screen, the setup is complete and working correctly
 
 ### 5. 📝 Register Account
 
