@@ -1,7 +1,7 @@
 
 ## 🚀 Setup Instructions
 
-### 1. Clone Repository and Configure Hosts
+### 1. Download Server and Configure Hosts
 
 1. Go to [Releases](https://github.com/zenlond/ryzen-hunt/releases/tag/1.0)
 2. Download the latest `server`
