@@ -13,9 +13,9 @@
 
 This project recreates the necessary server to restores functionality after AMD's original servers were shut down, enabling users to view the **AR anime mascots**.
 
-> ⚠️ **Project Status**: Complete and will not receive further development.
+>  **Project Status**: Complete and will not receive further development.
 
-> **Warning!** If you are using **Android 7, 8, or 9**, please read [this guide](docs/warning.md) first, then follow the steps below.
+> ⚠️ **Warning!** If you are using **Android 7, 8, or 9**, please read [this guide](docs/warning.md) first, then follow the steps below.
 
 ## 🚀 Getting Started
 
