@@ -4,7 +4,7 @@ This app uses **HTTP** instead of HTTPS. Modern Android versions block this for 
 
 ## Android Support
 
-* **Android 6 and below:** ✅ Works perfectly.
+* **Android 6 and below:** ✅ Works perfectly. No certificate installation needed for Android 6 and below.
 * **Android 7 & 8.1:** ⚠️ Not tested. If it doesn't work, follow the Android 9 instructions.
 * **Android 9:** 🛠 Manual setup required. You must install a CA certificate.
 * **Android 10 and above:** ❌ Does not work.
