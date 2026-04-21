@@ -64,8 +64,23 @@ func handleAMD(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
+
 	http.HandleFunc("/", handleAMD)
+
 	fmt.Println("AMD Ryzen Hunt Event Server. Emulator API, Backend for AMD Ryzen Hunt Event.")
 	fmt.Println("Made with love by zenlond")
-	log.Fatal(http.ListenAndServe(":80", nil))
+
+	go func() {
+		fmt.Println("Started on :80")
+		if err := http.ListenAndServe(":80", nil); err != nil {
+			log.Fatalf("HTTP Listen error: %v", err)
+		}
+	}()
+
+	fmt.Println("Started on :443")
+	err := http.ListenAndServeTLS(":443", "server.crt", "server.key", nil)
+	if err != nil {
+		fmt.Printf("HTTPS Error: %v\n", err)
+		select {}
+	}
 }
